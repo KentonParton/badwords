@@ -1,4 +1,4 @@
-# bad-words
+# bad-words forked version 3.0.0
 
 A javascript filter for badwords
 
